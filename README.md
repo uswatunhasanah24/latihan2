@@ -1,7 +1,7 @@
 # Latihan 1
-NAMA : RINI ARIZA
+NAMA : Uswatun Hasanah
 
-NIM: 312210337
+NIM: 312210343
 
 KELAS: TI.22.A3
 
