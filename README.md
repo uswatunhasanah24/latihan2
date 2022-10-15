@@ -18,9 +18,8 @@ KELAS: TI.22.A3
 3. Buat direktori dengan perintah mkdir lalu dimasukan ke direktorinya menggunakan cd gunakan perintah git init untuk membuat repository local.
      ![Screenshot (24)](https://user-images.githubusercontent.com/115516474/195974294-f31e4112-9269-48fa-a60a-563e5a6f1f2f.png)
 
-4. Kemudia buat file README menggunakan perintah echo atau menggunakan git add (nama file)![Screenshot (25)](https://user-images.githubusercontent.com/115516474/195974680-28c8462b-f752-46ef-9b0d-3d25f0aaeb93.png)
-File README.md berhasil dibuat kemudian cek status jika ada file baru dengan perintah git status![Screenshot (28)](https://user-images.githubusercontent.com/115516474/195976290-fd988845-2596-4186-8117-6340db443f45.png)
+4. Kemudia buat file README menggunakan perintah echo atau menggunakan git add (nama file_![Screenshot
+     ![Screenshot (28)](https://user-images.githubusercontent.com/115516474/195977051-5a0e2996-dc28-4baf-aaaf-f06fbe836c02.png)
 
-5. Gunakan perintah nano dalam mengubah suatu file![Screenshot (30)](https://user-images.githubusercontent.com/115516474/195976920-8540357a-5870-42a6-9328-1284d07f15b0.png)
 
 
