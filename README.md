@@ -30,4 +30,5 @@ file README.md telah berhasil dibuat kemudian cek status jika ada file baru deng
 7. Buat repostory server menggunakan GITHUB sebelumnya harus membuat akun terlebih dahulu, kemudian klik ikon (+) New Story 
 ![Screenshot (35)](https://user-images.githubusercontent.com/115516474/195978006-0412f5e9-b7c4-4416-a58c-dfa890ceb2c3.png)
 
-
+8. Kemudian kembali ke GITBASE, dengan menggunakan perintah git remote add origin (URL) untuk menambahkan remote ripostory
+![Screenshot (36)](https://user-images.githubusercontent.com/115516474/195978201-ac6ced93-9e50-43d0-b18c-104f0da3e6e9.png)
