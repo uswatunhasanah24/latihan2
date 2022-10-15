@@ -18,8 +18,9 @@ KELAS: TI.22.A3
 3. Buat direktori dengan perintah mkdir lalu dimasukan ke direktorinya menggunakan cd gunakan perintah git init untuk membuat repository local.
      ![Screenshot (24)](https://user-images.githubusercontent.com/115516474/195974294-f31e4112-9269-48fa-a60a-563e5a6f1f2f.png)
 
-4. Kemudia buat file README menggunakan perintah echo atau menggunakan git add (nama file_![Screenshot
-     ![Screenshot (28)](https://user-images.githubusercontent.com/115516474/195977051-5a0e2996-dc28-4baf-aaaf-f06fbe836c02.png)
+4. Kemudia buat file README menggunakan perintah echo atau menggunakan git add (nama file)
+![Screenshot (31)](https://user-images.githubusercontent.com/115516474/195977237-7503c19f-c9ef-42fa-864c-b7cbac08d169.png)
+
 
 
 
