@@ -24,7 +24,9 @@ KELAS: TI.22.A3
 file README.md telah berhasil dibuat kemudian cek status jika ada file baru dengan perintah git status
  ![Screenshot (32)](https://user-images.githubusercontent.com/115516474/195977362-f2ece183-d7b0-4926-bf48-a75e8da8ec0c.png)
     
-
-
+6. Kemudian lakukan perintah git commit -m (komentar commit) untuk menyimpan perubahan kedalam data base repostory local
+  ![Screenshot (33)](https://user-images.githubusercontent.com/115516474/195977574-31b923d4-aa67-440d-832a-8a4f345ae4e6.png)
+   
+7. Buat repostory server menggunakan GITHUB sebelumnya harus membuat akun terlebih dahulu, kemudian klik ikon (+) New Story 
 
 
