@@ -33,4 +33,11 @@ file README.md telah berhasil dibuat kemudian cek status jika ada file baru deng
 8. Kemudian kembali ke GITBASE, dengan menggunakan perintah git remote add origin (URL) untuk menambahkan remote ripostory
 ![Screenshot (36)](https://user-images.githubusercontent.com/115516474/195978201-ac6ced93-9e50-43d0-b18c-104f0da3e6e9.png)
 
-9. Lalu cek ripository di GITHUB      
+9. Lalu cek ripository di GITHUB   
+
+![Screenshot (37)](https://user-images.githubusercontent.com/115516474/195978338-93eb9fe8-302e-4529-9d10-b930b9f4cf2e.png)
+
+Jika berhasil maka ada file yang di tambahkan di GITHUB nya
+
+10. Dalam menyalin repository server gunakan perintah git cloone (URL)
+
