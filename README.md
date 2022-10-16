@@ -4,18 +4,37 @@ NAMA : Uswatun Hasanah
 NIM: 312210343
 
 KELAS: TI.22.A3
+1.Instal GIT for Windows
+![Screenshot (43)](https://user-images.githubusercontent.com/115516474/196048215-92493a22-8ea6-44a2-8e08-3bb377a06607.png)
 
 
-1.Langkah pertama konfigurasi menggunakan nama dan email 
+2.pilih direktori yang sudah aktif contohnya c:labs_pemograman1 lalu klik kanan dan pilih "git bash here"
+![Screenshot (14)](https://user-images.githubusercontent.com/115516474/196048963-7154374b-649e-4b28-b56b-2d4860a68520.png)
+
+
+3. Menambahkan Global Config 
+-pada saat pertama kali menggunakan GIT, perlu dilakukan konfigurasi user.name dan user.email
+-konfigurasi ini bisa di lakukan untuk global repostiry atau individual repository
+-apabila belum dilakukian konfigurasi, akan mengakibatkan terjadinya kegagalan saat menjalankan perintah git commit
+![Screenshot (44)](https://user-images.githubusercontent.com/115516474/196048820-d941206a-bf9b-45e1-be60-9dec6da56b7b.png)
+
+4.Membuat Reposiory Local
+Buat direktory projek pratikum pertama dengan nama latihan1
+$ mkdir latihan1
+$ cd latihan1
+
+
+3.pilih direktori yang sudah aktif contohnya c:labs_pemograman1 lalu klik kanan dan pilih "git bash here"
+
+![Screenshot (14)](https://user-images.githubusercontent.com/115516474/196048456-fd7a6106-5fa2-4cca-98da-ecf0c0242143.png)
+
+
+3..Langkah pertama konfigurasi menggunakan nama dan email 
 
 <img width="344" alt="tahap 1" src="https://user-images.githubusercontent.com/115516474/195516434-89b45d0d-1e56-4062-a4dc-6840c02901e8.png">>
 
 
-2.pilih direktori yang sudah aktif contohnya c:labs_pemograman1 lalu klik kanan dan pilih "git bash here"
-
-<img width="578" alt="tahap 2" src=![Screenshot (13)](https://user-images.githubusercontent.com/115516474/195517396-880d47b1-9108-4598-8621-2a9b49547fea.png)
-
-3. Buat direktori dengan perintah mkdir lalu dimasukan ke direktorinya menggunakan cd gunakan perintah git init untuk membuat repository local.
+4. Buat direktori dengan perintah mkdir lalu dimasukan ke direktorinya menggunakan cd gunakan perintah git init untuk membuat repository local.
      ![Screenshot (24)](https://user-images.githubusercontent.com/115516474/195974294-f31e4112-9269-48fa-a60a-563e5a6f1f2f.png)
 
 4. Kemudia buat file README menggunakan perintah echo atau menggunakan git add (nama file)
