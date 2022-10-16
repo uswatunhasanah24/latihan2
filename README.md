@@ -77,8 +77,7 @@ Buat direktory projek pratikum pertama dengan nama latihan1
 10.Menambahkan Remote Repository 
 -Repository merupakan server yang digunakan untuk menyimpan perubahan pada local repositori sehingga dapat diakses oleh banyak user. 
 -Untuk menambahkan remote repository server, gunakan perintah git remote add origin (URL)
-
-![Screenshot_20221017-014518_Chrome](https://user-images.githubusercontent.com/115516474/196053002-0ef115e3-6653-475e-90e5-  5f8f77bed193.jpg)
+$git remote add origin
 
 
 11. Push (mengirim perubahan ke server)
