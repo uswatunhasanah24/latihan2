@@ -20,43 +20,28 @@ KELAS: TI.22.A3
 
 4.Membuat Reposiory Local
 Buat direktory projek pratikum pertama dengan nama latihan1
-$ mkdir latihan1
-$ cd latihan1
+
+![Screenshot (47)](https://user-images.githubusercontent.com/115516474/196049957-008dfee1-302a-48fe-89d6-57c7f1bfe418.png)
+
+-sehingga terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah cd (change directpry)
 
 
-3.pilih direktori yang sudah aktif contohnya c:labs_pemograman1 lalu klik kanan dan pilih "git bash here"
+5.Membuat Repository Local
+-Jalankan perintah GIT INIT, untuk membuat repository lokal
 
-![Screenshot (14)](https://user-images.githubusercontent.com/115516474/196048456-fd7a6106-5fa2-4cca-98da-ecf0c0242143.png)
+![Screenshot (49)](https://user-images.githubusercontent.com/115516474/196050423-d77c6ade-54a5-4fe2-b4a7-2fa6b2373442.png)
 
-
-3..Langkah pertama konfigurasi menggunakan nama dan email 
-
-<img width="344" alt="tahap 1" src="https://user-images.githubusercontent.com/115516474/195516434-89b45d0d-1e56-4062-a4dc-6840c02901e8.png">>
+-Repository baru berhasil di inisialsasi, dengan terbentuknya satu direktori hidden nama .git
 
 
-4. Buat direktori dengan perintah mkdir lalu dimasukan ke direktorinya menggunakan cd gunakan perintah git init untuk membuat repository local.
-     ![Screenshot (24)](https://user-images.githubusercontent.com/115516474/195974294-f31e4112-9269-48fa-a60a-563e5a6f1f2f.png)
+6.Menambhakan File baru pada repository
+-Untuk membuat file dapat menggunakan text editor, lalu menyimpan filenya pada direktori aktif (repository)
+-disini saya akan coba buat satu file bernama README.md
+![Screenshot_20221017-005706_Chrome](https://user-images.githubusercontent.com/115516474/196050885-53c78d3d-a1be-4d00-b868-067a54ba7a98.jpg)
+![Screenshot (50)](https://user-images.githubusercontent.com/115516474/196051163-4897c32d-3ab8-4714-a95e-399b9e852d30.png)
 
-4. Kemudia buat file README menggunakan perintah echo atau menggunakan git add (nama file)
-![Screenshot (31)](https://user-images.githubusercontent.com/115516474/195977237-7503c19f-c9ef-42fa-864c-b7cbac08d169.png)
-     
-file README.md telah berhasil dibuat kemudian cek status jika ada file baru dengan perintah git status
- ![Screenshot (32)](https://user-images.githubusercontent.com/115516474/195977362-f2ece183-d7b0-4926-bf48-a75e8da8ec0c.png)
-    
-6. Kemudian lakukan perintah git commit -m (komentar commit) untuk menyimpan perubahan kedalam data base repostory local
-  ![Screenshot (33)](https://user-images.githubusercontent.com/115516474/195977574-31b923d4-aa67-440d-832a-8a4f345ae4e6.png)
-   
-7. Buat repostory server menggunakan GITHUB sebelumnya harus membuat akun terlebih dahulu, kemudian klik ikon (+) New Story 
-![Screenshot (35)](https://user-images.githubusercontent.com/115516474/195978006-0412f5e9-b7c4-4416-a58c-dfa890ceb2c3.png)
 
-8. Kemudian kembali ke GITBASE, dengan menggunakan perintah git remote add origin (URL) untuk menambahkan remote ripostory
-![Screenshot (36)](https://user-images.githubusercontent.com/115516474/195978201-ac6ced93-9e50-43d0-b18c-104f0da3e6e9.png)
 
-9. Lalu cek ripository di GITHUB   
 
-![Screenshot (37)](https://user-images.githubusercontent.com/115516474/195978338-93eb9fe8-302e-4529-9d10-b930b9f4cf2e.png)
 
-Jika berhasil maka ada file yang di tambahkan di GITHUB nya
-
-10. Dalam menyalin repository server gunakan perintah git cloone (URL)
 
