@@ -28,7 +28,7 @@ Buat direktory projek pratikum pertama dengan nama latihan1
 
 ![Screenshot (47)](https://user-images.githubusercontent.com/115516474/196049957-008dfee1-302a-48fe-89d6-57c7f1bfe418.png)
 
--sehingga terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah cd (change directpry)
+-sehingga terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah cd (change directory)
 
 
 5.Membuat Repository Local
@@ -36,10 +36,11 @@ Buat direktory projek pratikum pertama dengan nama latihan1
 
 ![Screenshot (49)](https://user-images.githubusercontent.com/115516474/196050423-d77c6ade-54a5-4fe2-b4a7-2fa6b2373442.png)
 
--Repository baru berhasil di inisialsasi, dengan terbentuknya satu direktori hidden nama .git
+-Repository baru berhasil di inisialisasi, dengan terbentuknya satu direktori hidden dengan nama .
+git direktory tersebut, semua perubahan pada working directory akan disimpan
 
 
-6.Menambhakan File baru pada repository
+6.Menambahakan File baru pada repository
 -Untuk membuat file dapat menggunakan text editor, lalu menyimpan filenya pada direktori aktif (repository)
 -disini saya akan coba buat satu file bernama README.md
 
