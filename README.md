@@ -16,9 +16,9 @@ KELAS: TI.22.A3
 
 
 3. Menambahkan Global Config 
--pada saat pertama kali menggunakan GIT, perlu dilakukan konfigurasi user.name dan user.email
--konfigurasi ini bisa di lakukan untuk global repostiry atau individual repository
--apabila belum dilakukian konfigurasi, akan mengakibatkan terjadinya kegagalan saat menjalankan perintah git commit
+pada saat pertama kali menggunakan GIT, perlu dilakukan konfigurasi user.name dan user.email
+konfigurasi ini bisa di lakukan untuk global repostiry atau individual repository 
+apabila belum dilakukian konfigurasi, akan mengakibatkan terjadinya kegagalan saat menjalankan perintah git commit
 
 ![Screenshot (44)](https://user-images.githubusercontent.com/115516474/196048820-d941206a-bf9b-45e1-be60-9dec6da56b7b.png)
 
