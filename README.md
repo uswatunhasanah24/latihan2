@@ -61,7 +61,14 @@ Buat direktory projek pratikum pertama dengan nama latihan1
 9.Membuat repository server
 -isi nama repository latihan 1
 -lalu klik tombol Create repository
+![Screenshot (56)](https://user-images.githubusercontent.com/115516474/196052405-59e6e0ff-0eb2-478c-8aa3-c44601887de8.png)
 
+
+10.Menambahkan Remote Repository 
+-Repository merupakan server yang digunakan untuk menyimpan perubahan pada local repositori sehingga dapat diakses oleh banyak user. 
+-Untuk menambahkan remote repository server, gunakan perintah git remote add origin (URL)
+
+![Screenshot_20221017-014518}(https://user-images.githubusercontent.com/115516474/196052945-e43fbddb-0c1f-4686-8d59-7bb033f7ebf6.jpg)
 
 
 
