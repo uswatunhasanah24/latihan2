@@ -73,9 +73,14 @@ Buat direktory projek pratikum pertama dengan nama latihan1
 
 11. Push (mengirim perubahan ke server)
 
+-Untuk mengirim perubahan pada local repository ke server gunakan perintah git push
+
 ![Screenshot_20221017-014518_Chrome](https://user-images.githubusercontent.com/115516474/196053107-48d20ace-5fba-407d-bfc6-8b25e9525d68.jpg)
 
+-perintah ini akan meminta memasukan username dan password pada akun github.com
 
+![Screenshot (57)](https://user-images.githubusercontent.com/115516474/196053285-b4872689-6d0d-442c-ad39-72a63ba002de.png)
 
-
-
+12. Melihat hasilnya pada server repository
+-Buka laman github.com arahkan pada repositorynya
+-Maka perubahan akan terlihat pada laman tersebut
