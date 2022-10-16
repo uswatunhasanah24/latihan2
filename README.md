@@ -68,8 +68,12 @@ Buat direktory projek pratikum pertama dengan nama latihan1
 -Repository merupakan server yang digunakan untuk menyimpan perubahan pada local repositori sehingga dapat diakses oleh banyak user. 
 -Untuk menambahkan remote repository server, gunakan perintah git remote add origin (URL)
 
-![Screenshot_20221017-014518}(https://user-images.githubusercontent.com/115516474/196052945-e43fbddb-0c1f-4686-8d59-7bb033f7ebf6.jpg)
+![Screenshot_20221017-014518_Chrome](https://user-images.githubusercontent.com/115516474/196053002-0ef115e3-6653-475e-90e5-5f8f77bed193.jpg)
 
+
+11. Push (mengirim perubahan ke server)
+
+![Screenshot_20221017-014518_Chrome](https://user-images.githubusercontent.com/115516474/196053107-48d20ace-5fba-407d-bfc6-8b25e9525d68.jpg)
 
 
 
